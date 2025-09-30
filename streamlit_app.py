@@ -194,7 +194,7 @@ if os.path.exists(logo_path):
 else:
     st.warning(f"Logo not found at {logo_path}")
 
-st.header('All Souls Cathedral: 2025 Environmental Data')
+st.header('1 Hilltop Rd: 2025 Environmental Data')
 
 # Sidebar settings
 st.sidebar.title('Settings')
